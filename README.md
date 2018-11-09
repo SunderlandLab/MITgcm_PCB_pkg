@@ -23,4 +23,4 @@ We're excited to include science updates from the community, but as a policy we 
 
 Software requirements
 
-The PCB model is written for MITgcm eccov4.
+The PCB model is written for MITgcm eccov4 and requires cloning the MITgcm eccov4 also located in the SunderlandLab repository first. You should then store this repository MITgcm_PCBs_pkg in MITgcm_eccov4_code/pkg.
