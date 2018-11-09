@@ -1,0 +1,27 @@
+/cpl_export_my_data.F/1.6/Tue Sep 24 23:13:54 2013//
+/cpl_import_external_data.F/1.5/Tue Sep 24 23:13:54 2013//
+/ATMCPL.h/1.4/Tue Mar 31 18:05:19 2015//
+/CPL_PARAMS.h/1.6/Tue Mar 31 18:05:19 2015//
+/atm_apply_import.F/1.2/Tue Mar 31 18:05:19 2015//
+/atm_cpl_read_pickup.F/1.4/Tue Mar 31 18:05:19 2015//
+/atm_export_atmconfig.F/1.4/Tue Mar 31 18:05:19 2015//
+/atm_export_fld.F/1.2/Tue Mar 31 18:05:19 2015//
+/atm_get_atmconfig.F/1.1/Tue Mar 31 18:05:19 2015//
+/atm_import_fields.F/1.3/Tue Mar 31 18:05:19 2015//
+/atm_import_ocnconfig.F/1.3/Tue Mar 31 18:05:19 2015//
+/atm_store_aim_fields.F/1.2/Tue Mar 31 18:05:19 2015//
+/atm_store_aim_wndstr.F/1.1/Tue Mar 31 18:05:19 2015//
+/atm_store_dynvars.F/1.1/Tue Mar 31 18:05:19 2015//
+/atm_store_land.F/1.1/Tue Mar 31 18:05:19 2015//
+/atm_store_my_data.F/1.5/Tue Mar 31 18:05:19 2015//
+/atm_store_surfflux.F/1.1/Tue Mar 31 18:05:19 2015//
+/atm_store_thsice.F/1.2/Tue Mar 31 18:05:19 2015//
+/cpl_exch_configs.F/1.4/Tue Mar 31 18:05:19 2015//
+/cpl_ini_vars.F/1.4/Tue Mar 31 18:05:19 2015//
+/cpl_init.F/1.3/Tue Mar 31 18:05:19 2015//
+/cpl_init_fixed.F/1.2/Tue Mar 31 18:05:19 2015//
+/cpl_output.F/1.1/Tue Mar 31 18:05:19 2015//
+/cpl_readparms.F/1.10/Tue Mar 31 18:05:19 2015//
+/cpl_register.F/1.3/Tue Mar 31 18:05:19 2015//
+/cpl_write_pickup.F/1.4/Tue Mar 31 18:05:19 2015//
+D
