@@ -7,10 +7,10 @@ Questions or comments? Contact: Elsie Sunderland or Charlotte Wagner Harvard Uni
 
 Email: ems@seas.harvard.edu or cwagner@g.harvard.edu Web: http://bgc.seas.harvard.edu
 
-Citation for code
+# Citation for code
 
 C.C. Wagner, H M. Amos, C. P. Thackray, Y. Zhang, E. W. Lundgren, G. Forget, C. L. Friedman, N. E. Selin,
-Rainer Lohmann, and  E.M. Sunderland (2013), A global 3-D ocean model for polychlorinated biphenyls (PCBs): Benchmark compounds for understanding the impacts of global change on neutral persistent organic pollutants Glob. Biogeochem. Cycle.
+R. Lohmann, and  E.M. Sunderland (2013), A global 3-D ocean model for polychlorinated biphenyls (PCBs): Benchmark compounds for understanding the impacts of global change on neutral persistent organic pollutants Glob. Biogeochem. Cycle.
 
 
 Co-authorship is appropriate if your paper benefits significantly from use of this model/code.
@@ -21,6 +21,6 @@ If you find a bug, please report it to us (cwagner@g.harvard.edu) with the subje
 
 We're excited to include science updates from the community, but as a policy we will ONLY include work associated with a published/accepted manuscript. Thanks for your participation and interest!
 
-Software requirements
+# Software requirements
 
 The PCB model is written in FORTRAN and runs on 96 cpus. It requires cloning the MITgcm eccov4 also located in the SunderlandLab repository first. You should then store this repository MITgcm_PCBs_pkg in MITgcm_eccov4_code/pkg.
