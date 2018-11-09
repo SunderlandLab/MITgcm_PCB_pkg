@@ -9,7 +9,7 @@ Email: ems@seas.harvard.edu or cwagner@g.harvard.edu Web: http://bgc.seas.harvar
 
 Citation for code
 
-C.C. Wagner, H M. Amos, C. P. Thackray1, Y. Zhang, E. W. Lundgren, G. Forget, C. L. Friedman, N. E. Selin,
+C.C. Wagner, H M. Amos, C. P. Thackray, Y. Zhang, E. W. Lundgren, G. Forget, C. L. Friedman, N. E. Selin,
 Rainer Lohmann, and  E.M. Sunderland (2013), A global 3-D ocean model for polychlorinated biphenyls (PCBs): Benchmark compounds for understanding the impacts of global change on neutral persistent organic pollutants Glob. Biogeochem. Cycle.
 
 
