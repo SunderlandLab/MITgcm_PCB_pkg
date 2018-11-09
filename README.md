@@ -23,4 +23,4 @@ We're excited to include science updates from the community, but as a policy we 
 
 ## Software requirements
 
-The PCB model is written in FORTRAN and runs on 96 cpus. It requires cloning the MITgcm eccov4 also located in the SunderlandLab repository first. You should then store this repository MITgcm_PCBs_pkg in MITgcm_eccov4_code/pkg.
+The PCB model is written in FORTRAN and runs on 96 cpus. It requires cloning the MITgcm eccov4 also located in the SunderlandLab repository first. You should then store MITgcm_PCBs_pkg in MITgcm_eccov4_code/pkg.
